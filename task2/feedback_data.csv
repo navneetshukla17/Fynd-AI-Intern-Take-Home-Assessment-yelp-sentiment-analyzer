@@ -1,0 +1,16 @@
+id,timestamp,rating,review,ai_response,summary,actions,date
+1765032445456,2025-12-06T20:17:25.457229,5,I enjoyed it alot ,"Dear [Customer],
+
+Thank you for taking the time to leave such a kind and positive review for our product. I am truly grateful for your feedback and would like to take this opportunity to express my heartfelt appreciation for your kind words.
+
+I understand how much effort and time goes into providing excellent customer service, and I am truly humbled by your review. It is an honor to hear that our product met your expectations and exceeded your expectations.",The feedback suggests that customers appreciated the quality and presentation of the product or service provided by the company,"[""Send personalized thank you message to customer"", ""Request permission to use review as testimonial"", ""Analyze what went well to replicate success""]",2025-12-06
+1765032265682,2025-12-06T20:14:25.684415,3,It was okk !,"Dear Customer,
+
+Thank you for taking the time to provide us with your feedback. We understand that it can be frustrating when a product or service does not meet your expectations, and we would like to reassure you that we take your feedback seriously and are committed to improving our services.
+
+We appreciate your constructive criticism and are willing to take action to address any issues you may have encountered. We are happy to hear that you were satisfied with the overall quality",,,2025-12-06
+1765032996136,2025-12-06T20:26:36.137148,1,It was horrible please stop doing this shittt !,"Dear [Customer],
+
+I am deeply sorry to hear that you had a negative experience with our company. I understand how disappointing it can be to receive poor service, and I am committed to doing everything possible to make things right.
+
+Firstly, I want to assure you that we take your feedback seriously and will work hard to address any issues you may have. We understand that this is a difficult time for you, and we appreciate your patience while we resolve the issue",,,
