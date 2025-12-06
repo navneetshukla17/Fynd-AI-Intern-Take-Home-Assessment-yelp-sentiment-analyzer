@@ -9,13 +9,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
-st.set_page_config(
-    page_title="Admin Dashboard",
-    page_icon="📊",
-    layout="wide"
-)
-
-
 # Data file path
 DATA_FILE = "feedback_data.csv"
 

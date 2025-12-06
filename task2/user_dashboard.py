@@ -7,13 +7,6 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
 
-st.set_page_config(
-    page_title="Customer Feedback",
-    page_icon="⭐",
-    layout="centered"
-)
-
-
 # Data file path
 DATA_FILE = "feedback_data.csv"
 
